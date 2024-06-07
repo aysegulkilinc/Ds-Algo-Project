@@ -64,3 +64,20 @@ x = log n
 o(n) &nbsp;&nbsp;&nbsp; *time complexity* <br>
 O(n log n)
 
+
+<br>
+<br>
+
+**Proje 3**
+
+*[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ &nbsp;\ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ <br>
+&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9 <br>
+&nbsp;/&nbsp;\ <br>
+0 &nbsp; 3 <br>
+&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;\ <br>
+&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4
